@@ -63,8 +63,6 @@
       float: left;
       width: 63%;
     }
-
-
   }
 
   @mixin atLarge {
@@ -96,8 +94,6 @@
       float: left;
       width: 63%;
     }
-
-
   }
 
   /* Begin Equal Height Rules  */
